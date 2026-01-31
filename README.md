@@ -144,10 +144,6 @@ I'm **Kushal Zanzari**, an Integrated B.Tech + M.Tech in Artificial Intelligence
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KushalZanzari&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KushalZanzari&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
-</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=KushalZanzari&theme=tokyo-night&hide_border=true"/>
