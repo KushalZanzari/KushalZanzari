@@ -29,6 +29,7 @@ I'm **Kushal Zanzari**, an Integrated B.Tech + M.Tech in Artificial Intelligence
 - 🤖 Interested in: **Conversational AI, NLP, Recommendation Systems**  
 - 💡 Built: **Voice Assistants, AI Chatbots, Health Platforms, Job Portals**  
 - 🌱 Exploring: **Data Analytics, Machine Learning Pipelines & Visualization**
+- 🌐 Portfolio: **kushalzanzari.vercel.app/**
 - 📬 Email: **kushalzanzari@gmail.com**
 
 ---
